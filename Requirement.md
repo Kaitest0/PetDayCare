@@ -24,9 +24,5 @@
 - What specific steps in client onboarding are inconsistent between employees?
 - What feedback have customers provided about their onboarding frustrations?
 - Are there existing tools or software being used for onboarding?
+- Are there budget for new tools?
 - What are the goals of the daycare owners regarding onboarding efficiency?
-
-
-
-
-
