@@ -25,4 +25,12 @@
 - What feedback have customers provided about their onboarding frustrations?
 - Are there existing tools or software being used for onboarding?
 - Are there budget for new tools?
-- What are the goals of the daycare owners regarding onboarding efficiency?
+- What are the goals of the daycare owner regarding onboarding efficiency?
+
+## Follow-up Clarification Questions
+  
+  After gathering initial answers, further clarifications may be needed -
+- How many employees typically go through the onboarding process in a year?
+- What is the most common bottleneck in the current employee onboarding process?
+- Is there a desire to integrate with existing systems? For example: payroll, CRM, HRM
+- How do employees currently track progress during onboarding?
