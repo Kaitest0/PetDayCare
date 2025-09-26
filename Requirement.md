@@ -34,3 +34,29 @@
 - What is the most common bottleneck in the current employee onboarding process?
 - Is there a desire to integrate with existing systems? For example: payroll, CRM, HRM
 - How do employees currently track progress during onboarding?
+
+## Preliminary Tasks
+
+- **Document Current Workflows**
+
+	- Document the current employee onboarding workflow.
+	- Document the current client onboarding workflow.
+	- Map out both workflows visually (flowcharts, diagrams).
+
+- **Collect Feedback & Identify Issues**
+
+	- Ask employees what feels difficult or frustrating during onboarding.
+	- Ask clients about their challenges in the onboarding process.
+	- Talk with managers/owners about what's not working for them.
+	- Point out steps that are slow, confusing or repeated in both workflows.
+
+- **Design & Proposal**
+
+	- Draft a standardized onboarding process (employee and client).
+	- Draft a proposal for an improved onboarding system.
+	- Decide how we will measure success. For example: how fast onboarding is or how happy customers are
+
+- **Training & Materials**
+
+	- Prepare an outline for employee training materials. For example: manual documents.
+	- Prepare a training plan for rolling out the new system.
